@@ -1,0 +1,17 @@
+DiplomProject\responseClient\IngredientsResponsed.class
+DiplomProject\restClients\apiClients\UserApiClient.class
+DiplomProject\tests\UpdateUserDataTests.class
+DiplomProject\restClients\httpClients\OrderHTTPClient.class
+DiplomProject\restClients\httpClients\BaseHTTP.class
+DiplomProject\responseClient\UserResponsed.class
+DiplomProject\restClients\httpClients\UserHTTPClient.class
+DiplomProject\tests\LoginUserTests.class
+DiplomProject\restClients\apiClients\OrderApiClient.class
+DiplomProject\tests\CreateOrderTests.class
+DiplomProject\ApiUrls.class
+DiplomProject\restClients\apiClients\ResponseChecks.class
+DiplomProject\requestClient\User.class
+DiplomProject\requestClient\Ingredient.class
+DiplomProject\requestClient\Order.class
+DiplomProject\tests\CreateUserTests.class
+DiplomProject\tests\GetUsersOrderListTests.class
